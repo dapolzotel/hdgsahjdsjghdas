@@ -12,11 +12,12 @@ from aiogram.client.default import DefaultBotProperties
 # ============================================================
 #  НАСТРОЙКИ — заполни перед запуском
 # ============================================================
-BOT_TOKEN    = "YOUR_BOT_TOKEN_HERE"   # токен от @BotFather
-BOT_USERNAME = "YOUR_BOT_USERNAME"     # username бота БЕЗ @
+BOT_TOKEN    = "8049073072:AAHDFhP7z3DG3I_CALdtrcIx7JbohKBMV_c"   # токен от @BotFather
+BOT_USERNAME = "gamestarsykbot"     # username бота БЕЗ @
 
 SPONSORS = [
     {"name": "doozmbot",    "channel_id": "@doozmbot"},
+    {"name": "gamestarsyknews",    "channel_id": "@gamestarsyknews"},
     {"name": "suetastarss", "channel_id": "@suetastarss"},
     {"name": "imasta4",     "channel_id": "@imasta4"},
     {"name": "mxdarka",     "channel_id": "@mxdarka"},
